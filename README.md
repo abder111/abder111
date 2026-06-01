@@ -73,45 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abderrahman-essafi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahman-essafi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahman-essafi&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abderrahman-essafi&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abderrahman-essafi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5" />
-</div>
-
----
-
-## 🔭 Domaines d'Expertise
-
-```
-📌 Machine Learning        ████████████████████  Expert
-📌 Deep Learning           ███████████████████░  Avancé
-📌 Reinforcement Learning  ██████████████████░░  Avancé
-📌 Computer Vision         ██████████████████░░  Avancé
-📌 NLP / LLMs / RAG        █████████████████░░░  Avancé
-📌 Full-Stack (MERN)       ████████████████░░░░  Intermédiaire+
-📌 Data Science            ████████████████████  Expert
-📌 XAI / Explainability    ███████████████░░░░░  Intermédiaire
-```
-
----
 
 ## 🌍 Langues
 
@@ -151,12 +112,4 @@
 
 </div>
 
----
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abderrahman-essafi&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="Profile Views"/>
-</div>
