@@ -19,40 +19,11 @@
 
 </div>
 
----
 
-## 🧠 About Me
 
-```python
-class AbderrahmanEsSafi:
-    def __init__(self):
-        self.name       = "Es-safi Abderrahman"
-        self.role       = "Élève Ingénieur — Génie IA & Data Technologies"
-        self.school     = "ENSAM Meknès, Maroc  (2022 – 2027)"
-        self.focus      = ["IA Avancée", "Data Science", "Full-Stack Dev", "Systèmes Industriels"]
-        self.languages  = {"Arabe": "Maternel", "Français": "C1", "Anglais": "B2"}
-        self.interests  = ["IA Générative", "LLMs", "Agentic AI", "Échecs", "Open Source"]
 
-    def current_mission(self):
-        return "Turning data into intelligence, intelligence into impact 🚀"
-```
 
----
 
-## 🎓 Formation
-
-<table>
-  <tr>
-    <td>🏛️</td>
-    <td><strong>Diplôme d'Ingénieur d'État — Génie IA & Data Technologies</strong><br/>ENSAM Meknès · 2022 – 2027<br/><em>ML · DL · RL · DRL · Data Science · Dev Logiciel · Systèmes Industriels</em></td>
-  </tr>
-  <tr>
-    <td>🎒</td>
-    <td><strong>Baccalauréat Sciences Physiques et Chimiques</strong><br/><em>Mention obtenue avec succès</em></td>
-  </tr>
-</table>
-
----
 
 ## ⚡ Compétences Techniques
 
