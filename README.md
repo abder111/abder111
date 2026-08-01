@@ -14,8 +14,7 @@
 [![Email](https://img.shields.io/badge/abd.essafi%40edu.umi.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abd.essafi@edu.umi.ac.ma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahman-essafi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abderrahman-essafi)
-![Age](https://img.shields.io/badge/Age-22-a78bfa?style=for-the-badge&logo=person&logoColor=white)
-![Location](https://img.shields.io/badge/Meknès,_Maroc-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)
+
 
 </div>
 
@@ -98,15 +97,7 @@
 
 ---
 
-## 📫 Me Contacter
 
-<div align="center">
-
-| 📧 Email | 📱 Téléphone |
-|----------|-------------|
-| [abd.essafi@edu.umi.ac.ma](mailto:abd.essafi@edu.umi.ac.ma) | +212 625 291 214 |
-
-<br/>
 
 *"In the intersection of intelligence and data, lies the future I am building."* ✨
 
