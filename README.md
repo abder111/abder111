@@ -24,11 +24,11 @@
 
 
 
-## ⚡ Compétences Techniques
+## Compétences Techniques
 
 <div align="center">
 
-### 🤖 IA & Data Science
+### IA & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -40,7 +40,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🌐 Full-Stack Development
+### Full-Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -52,7 +52,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 💻 Langages de Programmation
+### Langages de Programmation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -60,7 +60,7 @@
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Outils & DevOps
+### Outils & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -73,21 +73,21 @@
 ---
 
 
-## 🌍 Langues
+## Langues
 
 <div align="center">
 
 | Langue | Niveau | Badge |
 |--------|--------|-------|
-| 🇲🇦 Arabe | Maternel | ![Native](https://img.shields.io/badge/Maternel-C2-green?style=flat-square) |
-| 🇫🇷 Français | Courant | ![C1](https://img.shields.io/badge/Courant-C1-blue?style=flat-square) |
-| 🇬🇧 Anglais | Bon niveau | ![B2](https://img.shields.io/badge/Bon%20Niveau-B2-orange?style=flat-square) |
+| Arabe | Maternel | ![Native](https://img.shields.io/badge/Maternel-C2-green?style=flat-square) |
+| Français | Courant | ![C1](https://img.shields.io/badge/Courant-C1-blue?style=flat-square) |
+| Anglais | Bon niveau | ![B2](https://img.shields.io/badge/Bon%20Niveau-B2-orange?style=flat-square) |
 
 </div>
 
 ---
 
-## 🎯 Centres d'Intérêt
+## Centres d'Intérêt
 
 <div align="center">
 
