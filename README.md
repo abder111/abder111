@@ -91,7 +91,7 @@
 
 <div align="center">
 
-🤖 **IA Générative & LLMs** · 🧩 **Agentic AI** · ⚡ **Veille Technologique** · ♟️ **Échecs** · 🌍 **Développement Open Source**
+**IA Générative & LLMs** ·  **Agentic AI** ·  **Veille Technologique** ·  **Échecs** ·  **Développement Open Source**
 
 </div>
 
@@ -99,7 +99,7 @@
 
 
 
-*"In the intersection of intelligence and data, lies the future I am building."* ✨
+*"In the intersection of intelligence and data, lies the future I am building."* 
 
 </div>
 
