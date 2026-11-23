@@ -11,10 +11,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![Email](https://img.shields.io/badge/abd.essafi%40edu.umi.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahmanessafi133@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/abderrahman-es-safi-773739329)
+[![Email](https://img.shields.io/badge/abderrahmanessafi133%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahmanessafi133@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-es-safi-773739329)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abder111)
-
 
 </div>
 
