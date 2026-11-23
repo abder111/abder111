@@ -90,7 +90,8 @@
 
 <div align="center">
 
-**IA Générative & LLMs** ·  **Agentic AI** ·  **Veille Technologique** ·  **Échecs** ·  **Développement Open Source**
+**IA Générative & LLMs** · **Agentic AI** · **Veille Technologique** · **Développement Open Source**<br>
+**Échecs** · **Football** · **Tennis** · **Padel** · **Cuisine**
 
 </div>
 
