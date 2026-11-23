@@ -87,11 +87,10 @@
 ---
 
 ## Centres d'Intérêt
-
 <div align="center">
 
-**IA Générative & LLMs** · **Agentic AI** · **Veille Technologique** · **Développement Open Source**<br>
-**Échecs** · **Football** · **Tennis** · **Padel** · **Cuisine**
+**Generative AI & LLMs** · **Agentic AI** · **Tech Watch** · **Open-Source Development**<br>
+**Chess** · **Video Games** · **Football** · **Tennis** · **Padel** · **Cooking**
 
 </div>
 
